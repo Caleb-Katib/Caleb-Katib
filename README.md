@@ -12,4 +12,4 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 
 ## &#x1f4c8; GitHub Stats
 [![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled91Alkhatib&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
-[![Khaled's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled91Alkhatib&langs_count=3&theme=tokyonight)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
+[![Khaled's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled91Alkhatib&langs_count=3&theme=tokyonight&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
