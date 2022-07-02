@@ -11,5 +11,5 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 ![](https://img.shields.io/badge/Tools-PostgreSQL-brightgreen?style=flat&logo=postgreSQL&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled91Alkhatib&theme=dracula&show_icons=true&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
+[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled91Alkhatib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
 [![Khaled's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled91Alkhatib&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
