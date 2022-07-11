@@ -11,7 +11,7 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 ![](https://img.shields.io/badge/Code-React-brightgreen?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Code-Ruby-brightgreen?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-brightgreen?style=flat&logo=postgreSQL&logoColor=white)
-![](https://img.shields.io/badge/Tools-Github-brightgreen?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Tools-html-brightgreen?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Tools-CSS-brightgreen?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Github-brightgreen?style=flat&logo=github&logoColor=white)
 
