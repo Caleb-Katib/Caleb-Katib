@@ -2,9 +2,16 @@
 
 # Greetings <img src = "https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/images/hand-wave.gif?raw=true" width="30px" height="30px" />
 
-My name is Khaled Alkhatib and I am a web developer. I was born in Syria, raised in Saudi Arabia and currently living in Canada.
-I started as a dentist then decided to follow something I truly desire. I am currently in the process of learning and diving into the world of web development. Here is my [resume](https://resume.creddle.io/resume/90ahh4140v) and you can contact me on [Linkedin](https://www.linkedin.com/in/khaledalkhatib/) or by sending me an email at [khaledkhatib91@hotmail.com](https://outlook.live.com/owa/).
+My name is Khaled Alkhatib and I am a frontend web developer. I was born in Syria, raised in Saudi Arabia and currently living in Canada.
+I started as a dentist then decided to follow something I truly desire. I am currently in the process of learning and diving into the world of web development.
 
+## Quick Links
+* [Personal Website](https://khaledalkhatib.netlify.app/)
+* [Resume](https://resume.creddle.io/resume/90ahh4140v)
+
+## Contact
+* [Linkedin](https://www.linkedin.com/in/khaledalkhatib/)
+* [khaledkhatib91@hotmail.com](https://outlook.live.com/owa/)
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/OS-M1-brightgreen?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-brightgreen?style=flat&logo=javascript&logoColor=white)
