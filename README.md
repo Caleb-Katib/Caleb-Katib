@@ -6,7 +6,7 @@ My name is Khaled Alkhatib and I am a frontend web developer. I was born in Syri
 I started as a dentist then decided to follow something I truly desire. I am currently in the process of learning and diving into the world of web development.
 
 ## Quick Links
-* [Personal Website](https://khaledalkhatib.netlify.app/)
+* [Personal Website](https://www.khaledalkhatib.com/)
 * [Resume](https://resume.creddle.io/resume/90ahh4140v)
 
 ## Contact
