@@ -23,12 +23,12 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 ![](https://img.shields.io/badge/Tools-CSS-brightgreen?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Github-brightgreen?style=flat&logo=github&logoColor=white)
 
-#### Visitors Count 
-
-<p textAlign="center">
-<img textAlign="center" src="https://profile-counter.glitch.me/{Khaled91Alkhatib}/count.svg" />
-</p>
-
 ## &#x1f4c8; GitHub Stats
 [![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled91Alkhatib&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
 [![Khaled's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled91Alkhatib&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=27)](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib)
+
+## Visitors Count 
+
+<p align="center">
+<img align="center" src="https://profile-counter.glitch.me/{Khaled91Alkhatib}/count.svg" />
+</p>
