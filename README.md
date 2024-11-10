@@ -1,4 +1,4 @@
-![Header](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/images/github-header.png?raw=true "Header")
+<!-- ![Header](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/images/github-header.png?raw=true "Header")
 
 # Greetings <img src = "https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/images/hand-wave.gif?raw=true" width="30px" height="30px" />
 
@@ -31,4 +31,39 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 
 <p align="center">
 <img align="center" src="https://profile-counter.glitch.me/{Khaled91Alkhatib}/count.svg" />
+</p> -->
+
+![Khaled Alkhatib](./khaled.svg)
+
+<p align="center">
+I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
+<br><br>
+  • <a href="https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/readme/resume.pdf">Resume</a>
+ • 
+ <a href= "https://www.khaledalkhatib.com/">Portfolio</a>
+<br>
+<!-- <a href="">TEXT</a> -->
+<!-- | <a href="">TEXT</a> -->
+<br>
+ <p align="center">
+ <!-- <a href=""><img src="https://img.shields.io/twitter/follow/NAMEHERE?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+
+   <a href="https://www.linkedin.com/in/khaledalkhatib/"><img src="https://img.shields.io/badge/-Khaled%20Alkhatib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledalkhatib/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+
+   <!-- <a href=""><img src="https://img.shields.io/reddit/user-karma/combined/NAMEHERE?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+
+<br>
+<br>
+
+
+<p align="center">
+ <i>Explore my repositories and feel free to reach out—let's connect!</i>
+<!-- <p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Khaled91Alkhatib"/>  
+</p> -->
+
+</p>
+
+![Khaled Alkhatib](https://raw.githubusercontent.com/Khaled91Alkhatib/Khaled91Alkhatib/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
 </p>
