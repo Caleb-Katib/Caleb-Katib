@@ -38,19 +38,19 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 <p align="center">
 I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
 <br><br>
-  • <a href="https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/khaled-resume.pdf">Resume</a>
+  • <a href="https://raw.githubusercontent.com/Khaled91Alkhatib/Khaled91Alkhatib/main/khaled-resume.pdf" target="_blank">Resume</a>
  • 
- <a href= "https://www.khaledalkhatib.com/">Portfolio</a> • 
+ <a href= "https://www.khaledalkhatib.com/" target="_blank">Portfolio</a> • 
 <br>
 <!-- <a href="">TEXT</a> -->
 <!-- | <a href="">TEXT</a> -->
 <br>
+
  <p align="center">
- <!-- <a href=""><img src="https://img.shields.io/twitter/follow/NAMEHERE?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-
-   <a href="https://www.linkedin.com/in/khaledalkhatib/"><img src="https://img.shields.io/badge/-Khaled%20Alkhatib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledalkhatib/" /></a>
-
-   <!-- <a href=""><img src="https://img.shields.io/reddit/user-karma/combined/NAMEHERE?style=style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://www.linkedin.com/in/khaledalkhatib/" target="_blank">
+    <img src="https://img.shields.io/badge/-Khaled%20Alkhatib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledalkhatib/" />
+  </a>
+</p>
 
 <br>
 <br>
