@@ -38,7 +38,7 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 <p align="center">
 I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
 <br><br>
-  • <a href="https://drive.google.com/file/d/1lLPS1NvjNvFdoK1f_BZrZp2s_BmMDFvM/view" target="_blank">Resume</a>
+  • <a href="https://drive.google.com/file/d/1pfnmpen8tAGKqLy7rI36BS6ROtExomqB/view" target="_blank">Resume</a>
  • 
  <a href= "https://www.khaledalkhatib.com/" target="_blank">Portfolio</a> • 
 <br>
