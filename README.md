@@ -33,7 +33,7 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 <img align="center" src="https://profile-counter.glitch.me/{Khaled91Alkhatib}/count.svg" />
 </p> -->
 
-![Caleb Katib](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/khaled.svg)
+![Caleb Katib](https://github.com/Caleb-Katib/Caleb-Katib/blob/main/khaled.svg)
 
 <p align="center">
 I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
